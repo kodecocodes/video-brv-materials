@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Creatures</string>
+  <string name="title_all">All</string>
+  <string name="title_favorites">Favorites</string>
+  <string name="invalid_creature">Invalid creature</string>
+  <string name="content_description_header_image">Creature Header Image</string>
+  <string name="content_description_favorite_button">Creature Favorite Button</string>
+  <string name="detail_title_format">Creature: %1$s</string>
+  <string name="content_description_creature_image">Creature Image</string>
+  <string name="content_description_food_image">Food Image</string>
+  <string name="menu_span_1">Span 1</string>
+  <string name="menu_span_2">Span 2</string>
+</resources>

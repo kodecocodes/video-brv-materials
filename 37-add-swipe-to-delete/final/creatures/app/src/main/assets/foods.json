@@ -1,0 +1,67 @@
+[
+  {
+    "id" : 1,
+    "name" : "Banana",
+    "image" : "food_banana"
+  },
+  {
+    "id" : 2,
+    "name" : "Cheese",
+    "image" : "food_cheese"
+  },
+  {
+    "id" : 3,
+    "name" : "Cupcake",
+    "image" : "food_cupcake"
+  },
+  {
+    "id" : 4,
+    "name" : "Pastry",
+    "image" : "food_pastry"
+  },
+  {
+    "id" : 5,
+    "name" : "Pez",
+    "image" : "random_pez"
+  },
+  {
+    "id" : 6,
+    "name" : "Pizza",
+    "image" : "food_pizza"
+  },
+  {
+    "id" : 7,
+    "name" : "Cookie",
+    "image" : "food_cookie_chocolatechip"
+  },
+  {
+    "id" : 8,
+    "name" : "Sugar Cookie",
+    "image" : "food_cookie_star"
+  },
+  {
+    "id" : 9,
+    "name" : "Pancakes",
+    "image" : "food_pancakes"
+  },
+  {
+    "id" : 10,
+    "name" : "Croissant",
+    "image" : "food_pastry_croissant"
+  },
+  {
+    "id" : 11,
+    "name" : "Donut",
+    "image" : "food_pastry_donut"
+  },
+  {
+    "id" : 12,
+    "name" : "Pumpkin",
+    "image" : "food_pumpkin"
+  },
+  {
+    "id" : 13,
+    "name" : "Apple",
+    "image" : "food_apple_core_red"
+  }
+]
